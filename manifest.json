@@ -1,0 +1,9 @@
+{
+  "name": "Toy Haven",
+  "short_name": "Toy Haven",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#102a43",
+  "description": "Toy Haven responsive front-end academic project"
+}
